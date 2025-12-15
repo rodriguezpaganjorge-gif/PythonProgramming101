@@ -1,0 +1,12 @@
+# This code is showing examples of the print fuction :p
+
+print("Hello, World It's Jorge Rodriguez!") # This is a comment
+print("Hello,","World!","It's","Jorge","Rodriguez!")
+print("Hello, " + "World! " + "It's " + "Jorge " + "Rodriguez!")
+print("My favorite movie is",'"Meet The Robinsons"')
+print("Jorge's Room")
+print("""Jorge
+Rodriguez
+Alejandro""")
+
+
